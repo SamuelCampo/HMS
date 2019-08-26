@@ -1,5 +1,7 @@
 <?
 class Historia extends CI_Model {
+
+  "Esta es la ultima muestra de la pc de Samuel";
   
   var $arr_viaing;
   var $arr_motivoing;
